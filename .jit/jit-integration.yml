@@ -2,3 +2,5 @@ integration_id_new_test:
   aaa: eyJ0ZXN0IjoiYm9keSJ9
 integration_id_new_test_1:
   bbb: eyJ0ZXN0IjoiYm9keSJ9b
+value1value2:
+  a: b
