@@ -24,4 +24,7 @@ items:
     input:
       status: passed
       note: ak
+  - name: Scan your code for vulnerabilities (SAST)
+    uses: >-
+      jitsecurity-controls/jit-plans/items/code/item-code-vulnerability.yml@latest
 
