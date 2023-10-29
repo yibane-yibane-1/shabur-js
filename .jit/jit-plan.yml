@@ -10,6 +10,9 @@ items:
     input:
       status: passed
       note: jk
+  - name: Scan your code for vulnerabilities (SAST)
+    uses: >-
+      jitsecurity-controls/jit-plans/items/code/item-code-vulnerability.yml@latest
 level: beginner
 version: 0.1
 references:
