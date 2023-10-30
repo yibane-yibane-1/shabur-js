@@ -7,12 +7,5 @@ items:
     input:
       status: passed
       note: gfr
-  - name: |
-      Enable AWS Business Support (or greater) on all production AWS accounts
-    uses: >-
-      jitsecurity-controls/jit-plans/items/support_level/item-support-business.yml@latest
-    input:
-      status: passed
-      note: vfds
 tags: []
 
